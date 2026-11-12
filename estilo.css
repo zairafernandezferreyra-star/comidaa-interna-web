@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #fff7e6, #ffe4c4);
+    color: #333;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: #8b3e2f;
+    font-size: 2.5em;
+}
+
+h2 {
+    color: #5a2d82;
+    margin-top: 30px;
+}
+
+.rosa {
+    color: #d94f8a;
+}
+
+.azul {
+    color: #2d72b8;
+}
+
+.violeta {
+    color: #7b4cc9;
+}
+
+.rojo {
+    color: #c0392b;
+}
+
+ul, ol {
+    margin-left: 30px;
+    line-height: 1.8;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+audio, iframe {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+}
+
+iframe {
+    border: none;
+    border-radius: 10px;
+}
